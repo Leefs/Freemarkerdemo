@@ -12,7 +12,7 @@ FreemarkerDemo创建步骤：
 3、插值(Interpolation):即${..}部分，将使用数据模型中的部分替代输出。
 4、FTL指令：FreeMarker指令，和HTML标记类似，名字前加#予以区分，不会输出。
 
-4.创建一个main方法	(ider创建main方法快捷方式：psvm)
+4.创建一个main方法	(idea创建main方法快捷方式：psvm)
 
 业务逻辑：
 1.创建一个配置对象

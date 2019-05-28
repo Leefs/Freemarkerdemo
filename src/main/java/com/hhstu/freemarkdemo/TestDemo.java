@@ -30,7 +30,7 @@ public class TestDemo {
         Writer out = new FileWriter("D:\\Web\\IDEA\\Freemarkerdemo\\src\\main\\resources\\static\\test.html");
         //7.输出
         tomplate.process(map,out);
-        //8.关闭out.
+        //8.关闭out .
         out.close();
     }
 
